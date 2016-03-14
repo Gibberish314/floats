@@ -1,0 +1,20 @@
+.img {
+  float: right;
+}
+
+.column {
+  width: 200px;
+  float: left;
+}
+
+.list {
+  font-size: 200%;
+  font-family: sans-serif;
+  font-style: bold;
+  font-style: italic;
+  color: red;
+}
+
+.title {
+  color: red;
+}

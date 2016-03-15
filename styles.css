@@ -23,8 +23,13 @@
 .important {
   text-align: center;
   font-style: italic;
+  float: left;
 }
 
 .stone {
   float: right;
+}
+
+.link {
+  float: left;
 }
